@@ -1,0 +1,11 @@
+127.0.0.1 - - [10/Oct/2021:08:14:47 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:14:50 +0700] "GET /Toolpdt/login-google HTTP/1.1" 200 1813
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:14:50 +0700] "GET /Toolpdt/views/assets/grid.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:14:50 +0700] "GET /Toolpdt/views/assets/base.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:14:50 +0700] "GET /Toolpdt/views/assets/image/google.png HTTP/1.1" 200 8846
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:14:50 +0700] "GET /Toolpdt/views/assets/login.css HTTP/1.1" 200 1597
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:14:50 +0700] "GET /Toolpdt/views/assets/image/Poly.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:14:50 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [10/Oct/2021:08:16:51 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:16:52 +0700] "GET /Toolpdt/login-google HTTP/1.1" 200 1813
+0:0:0:0:0:0:0:1 - - [10/Oct/2021:08:17:16 +0700] "POST /Toolpdt/login-google HTTP/1.1" 405 752

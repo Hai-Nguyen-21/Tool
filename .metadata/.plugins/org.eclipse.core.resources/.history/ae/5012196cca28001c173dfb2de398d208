@@ -1,0 +1,77 @@
+package Model;
+
+public class Error {
+	private String error1, error2, error5, error6, error7, error8, error9;
+
+	public Error() {
+	}
+
+	public Error(String error1, String error2, String error5, String error6, String error7, String error8,
+			String error9) {
+		this.error1 = error1;
+		this.error2 = error2;
+		this.error5 = error5;
+		this.error6 = error6;
+		this.error7 = error7;
+		this.error8 = error8;
+		this.error9 = error9;
+	}
+
+	public String getError1() {
+		return error1;
+	}
+
+	public void setError1(String error1) {
+		this.error1 = error1;
+	}
+
+	public String getError2() {
+		return error2;
+	}
+
+	public void setError2(String error2) {
+		this.error2 = error2;
+	}
+
+	public String getError5() {
+		return error5;
+	}
+
+	public void setError5(String error5) {
+		this.error5 = error5;
+	}
+
+	public String getError6() {
+		return error6;
+	}
+
+	public void setError6(String error6) {
+		this.error6 = error6;
+	}
+
+	public String getError7() {
+		return error7;
+	}
+
+	public void setError7(String error7) {
+		this.error7 = error7;
+	}
+
+	public String getError8() {
+		return error8;
+	}
+
+	public void setError8(String error8) {
+		this.error8 = error8;
+	}
+
+	public String getError9() {
+		return error9;
+	}
+
+	public void setError9(String error9) {
+		this.error9 = error9;
+	}
+	
+	
+}
